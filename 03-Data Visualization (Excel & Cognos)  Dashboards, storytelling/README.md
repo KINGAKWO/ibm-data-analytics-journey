@@ -23,10 +23,10 @@ I learned how to create visualizations through different methods (automatic, man
 ---
 
 ## 📂 Materials
-- [First Dashboard with IBM Cognos (PDF)] 
-- [Different Methods for Creating Dashboard Visualizations (PDF)]
-- [Hands-on Lab: Advanced Dashboard Capabilities (PDF)] 
-- Dataset: [CustomerLoyaltyProgram.csv]
+- [First Dashboard with IBM Cognos (PDF)](./first dashboard with IBM Cognos.pdf)
+- [Different Methods for Creating Dashboard Visualizations (PDF)](./Different Methods for Creating Dashboard Visualizations with Cognos Analytics.pdf)
+- [Hands-on Lab: Advanced Dashboard Capabilities (PDF)](./Hands-on Lab Advanced Dashboard Capabilities in Cognos Analytics.pdf)
+- Dataset: [CustomerLoyaltyProgram.csv](./CustomerLoyaltyProgram.csv)
 
 ---
 
