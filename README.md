@@ -1,7 +1,14 @@
-# IBM Data Analytics Journey 🚀
+# IBM Data Analytics Professional Certificate Journey 🚀
 
-This repository documents my hands-on exercises, projects, and reflections from the **IBM Data Analytics Professional Certificate**.  
-It serves both as a **learning log** and a **portfolio showcase** of my growth as a data analyst.
+This repository documents my **hands-on labs, exercises, and reflections** from the  
+[IBM Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst).  
+
+It serves as both a **learning log** and a **portfolio showcase** of my growth as a data analyst.  
+Each module folder contains:
+- Exercises and datasets (CSV/XLSX)
+- Lab instructions (PDFs)
+- Dashboards and visualizations (Excel & Cognos)
+- A `README.md` with key learnings and reflections
 
 ---
 
@@ -33,9 +40,9 @@ Key skills covered:
 
 ---
 
-## ✨ Highlights
+## ✨ Highlights So Far
 - ✅ Excel dashboards and pivot tables  
-- ✅ Cognos Analytics dashboards (Module 3)  
+- ✅ Cognos Analytics dashboards (multi-panel, interactive, advanced features)  
 - 🔜 Python notebooks with Pandas & Numpy  
 - 🔜 SQL queries for real-world datasets  
 
@@ -43,16 +50,19 @@ Key skills covered:
 
 ## 📝 Reflections
 This repo is not just about code—it’s about **documenting my journey**.  
-Each module folder contains:
-- Exercises and notebooks  
-- Screenshots or dashboards  
-- A `README.md` with key learnings and reflections  
+- Each module folder contains my **hands-on work** and **personal reflections**.  
+- The `docs/learning-log.md` tracks my growth with **date-based journal entries**.  
+- My goal is to show both **technical execution** and **critical thinking**.  
 
 ---
 
 ## 🎯 Goals
 - Build a strong portfolio of analytics projects  
-- Apply skills to real-world business problems 
+- Apply skills to real-world business problems (e.g., hotel booking analysis, church chatbot engagement)  
 - Transition into data science and AI-driven entrepreneurship  
 
 ---
+
+## 📌 Notes
+- All datasets used are either provided by IBM or publicly available (Kaggle, etc.).  
+- This repo is a **work in progress** and will evolve as I complete each module.  
