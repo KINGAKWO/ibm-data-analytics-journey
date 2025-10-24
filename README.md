@@ -58,7 +58,7 @@ This repo is not just about code—it’s about **documenting my journey**.
 
 ## 🎯 Goals
 - Build a strong portfolio of analytics projects  
-- Apply skills to real-world business problems (e.g., hotel booking analysis, church chatbot engagement)  
+- Apply skills to real-world business problems  
 - Transition into data science and AI-driven entrepreneurship  
 
 ---
