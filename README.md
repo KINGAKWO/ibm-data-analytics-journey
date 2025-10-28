@@ -1,5 +1,5 @@
 # IBM Data Analytics Professional Certificate Journey
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91b21576-2162-4396-9261-6b036320913a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 🛠️ Tools & Technologies
 <p align="center"><img src="https://img.shields.io/badge/Excel-Data%20Cleaning%20%26%20Dashboards-green?style=for-the-badge" /><img src="https://img.shields.io/badge/Cognos%20Analytics-Interactive%20Dashboards-blue?style=for-the-badge" /><img src="https://img.shields.io/badge/Python-Data%20Analysis%20%26%20Visualization-yellow?style=for-the-badge" /><img src="https://img.shields.io/badge/SQL-Queries%20%26%20Databases-lightgrey?style=for-the-badge" /><img src="https://img.shields.io/badge/Jupyter%20Notebooks-Exploratory%20Analysis-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Generative%20AI-AI%20Assisted%20Insights-purple?style=for-the-badge" /></p>
