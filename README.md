@@ -1,7 +1,20 @@
-# IBM Data Analytics Journey 🚀
+# IBM Data Analytics Professional Certificate Journey
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91b21576-2162-4396-9261-6b036320913a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-This repository documents my hands-on exercises, projects, and reflections from the **IBM Data Analytics Professional Certificate**.  
-It serves both as a **learning log** and a **portfolio showcase** of my growth as a data analyst.
+🛠️ Tools & Technologies
+<p align="center"><img src="https://img.shields.io/badge/Excel-Data%20Cleaning%20%26%20Dashboards-green?style=for-the-badge" /><img src="https://img.shields.io/badge/Cognos%20Analytics-Interactive%20Dashboards-blue?style=for-the-badge" /><img src="https://img.shields.io/badge/Python-Data%20Analysis%20%26%20Visualization-yellow?style=for-the-badge" /><img src="https://img.shields.io/badge/SQL-Queries%20%26%20Databases-lightgrey?style=for-the-badge" /><img src="https://img.shields.io/badge/Jupyter%20Notebooks-Exploratory%20Analysis-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Generative%20AI-AI%20Assisted%20Insights-purple?style=for-the-badge" /></p>
+
+
+
+This repository documents my **hands-on labs, exercises, and reflections** from the  
+[IBM Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst).  
+
+It serves as both a **learning log** and a **portfolio showcase** of my growth as a data analyst.  
+Each module folder contains:
+- Exercises and datasets (CSV/XLSX)
+- Lab instructions (PDFs)
+- Dashboards and visualizations (Excel & Cognos)
+- A `README.md` with key learnings and reflections
 
 ---
 
@@ -33,9 +46,9 @@ Key skills covered:
 
 ---
 
-## ✨ Highlights
+## ✨ Highlights So Far
 - ✅ Excel dashboards and pivot tables  
-- ✅ Cognos Analytics dashboards (Module 3)  
+- ✅ Cognos Analytics dashboards (multi-panel, interactive, advanced features)  
 - 🔜 Python notebooks with Pandas & Numpy  
 - 🔜 SQL queries for real-world datasets  
 
@@ -43,16 +56,19 @@ Key skills covered:
 
 ## 📝 Reflections
 This repo is not just about code—it’s about **documenting my journey**.  
-Each module folder contains:
-- Exercises and notebooks  
-- Screenshots or dashboards  
-- A `README.md` with key learnings and reflections  
+- Each module folder contains my **hands-on work** and **personal reflections**.  
+- The `docs/learning-log.md` tracks my growth with **date-based journal entries**.  
+- My goal is to show both **technical execution** and **critical thinking**.  
 
 ---
 
 ## 🎯 Goals
 - Build a strong portfolio of analytics projects  
-- Apply skills to real-world business problems 
+- Apply skills to real-world business problems  
 - Transition into data science and AI-driven entrepreneurship  
 
 ---
+
+## 📌 Notes
+- All datasets used are either provided by IBM or publicly available (Kaggle, etc.).  
+- This repo is a **work in progress** and will evolve as I complete each module.  
