@@ -13,7 +13,7 @@ It also provided practice using Jupyter Notebooks as an interactive coding envir
 - Running and documenting code in Jupyter Notebooks
 
 ## 📂 Files
-- [Notebook: Getting Started With Python](https://github.com/KINGAKWO/ibm-data-analytics-journey/blob/main/04.%20Python%20for%20Data%20Science%20%20Python,%20Pandas,%20Numpy)
+- [Notebook: Getting Started With Python](notebooks/PY0101EN-1-1-Getting_Started_With_Python.ipynb)
 
 ## 📝 Reflection
 This lab gave me confidence in the **syntax and structure of Python**.  
