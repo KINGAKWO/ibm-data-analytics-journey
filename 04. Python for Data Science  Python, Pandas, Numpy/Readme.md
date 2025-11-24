@@ -51,5 +51,7 @@ This module marks my transition from **basic programming** into **data science w
 ## 🏆 Badge Earned
 At the completion of this module, I obtained the **IBM Python for Data Science Badge**.  
 This badge validates my ability to use Python, APIs, and NumPy for data analysis workflows.
-[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1b78432-9e30-4e0a-a774-9925c218febc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-](https://www.credly.com/badges/d1b78432-9e30-4e0a-a774-9925c218febc/public_url)
+<img width="1080" height="1080" alt="python-for-data-science-and-ai" src="https://github.com/user-attachments/assets/7fd94852-c98a-4ce3-b29d-12a2bc633b17" />
+(https://www.credly.com/badges/d1b78432-9e30-4e0a-a774-9925c218febc/public_url)
+
+
