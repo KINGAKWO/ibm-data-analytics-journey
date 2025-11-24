@@ -47,3 +47,8 @@ I can now:
 - Apply NumPy for efficient numerical analysis  
 
 This module marks my transition from **basic programming** into **data science workflows**.  
+
+## 🏆 Badge Earned
+At the completion of this module, I obtained the **IBM Python for Data Science Badge**.  
+This badge validates my ability to use Python, APIs, and NumPy for data analysis workflows.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1b78432-9e30-4e0a-a774-9925c218febc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
