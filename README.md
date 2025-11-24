@@ -35,8 +35,8 @@ Key skills covered:
 | 01. Introduction to Data Analytics | Data roles, lifecycle, tools | ✅ Completed |
 | 02. Excel Basics for Data Analysis | Functions, pivot tables | ✅ Completed |
 | 03. Data Visualization (Excel & Cognos) | Dashboards, storytelling | ✅ Completed |
-| 04. Python for Data Science | Python, Pandas, Numpy | 🔄 In Progress |
-| 05. Python Project for Data Science | Applied project | ⏳ Upcoming |
+| 04. Python for Data Science | Python, Pandas, Numpy | ✅ Completed |
+| 05. Python Project for Data Science | Applied project | 🔄 In Progress |
 | 06. Databases & SQL | SQL queries, joins, filtering | ⏳ Upcoming |
 | 07. Data Analysis with Python | Cleaning, wrangling, EDA | ⏳ Upcoming |
 | 08. Data Visualization with Python | Matplotlib, Seaborn | ⏳ Upcoming |
