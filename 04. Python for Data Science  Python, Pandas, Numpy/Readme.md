@@ -1,12 +1,20 @@
-# Module 4: Python for Data Science
+# Module 4: Python for Data Science  
 
-## 📖 Overview
-This module introduced Python programming for data analysis.  
-I practiced Python fundamentals, explored core data structures, and transitioned into real-world workflows with APIs, HTTP requests, and NumPy.
+## 🏅 Skills Gained  
+- 🐍 Python Basics  
+- 📦 Data Structures  
+- 🌐 APIs & HTTP  
+- 🔢 NumPy  
 
 ---
 
-## 🗂️ Labs Completed
+## 📖 Overview  
+This module introduced Python programming for data analysis.  
+I practiced Python fundamentals, explored core data structures, and transitioned into real-world workflows with APIs, HTTP requests, and NumPy.  
+
+---
+
+## 🗂️ Labs Completed  
 1. Getting Started with Python  
 2. Strings  
 3. Tuples  
@@ -21,21 +29,21 @@ I practiced Python fundamentals, explored core data structures, and transitioned
 
 ---
 
-## 📊 Summary
+## 📊 Summary  
 - **Core Python Structures**: Strings, Tuples, Lists, Sets, Dictionaries  
 - **Data Acquisition**: Loading CSV/Excel files, APIs, HTTP requests  
 - **Scientific Computing**: NumPy arrays (1D & 2D), vectorized operations, matrix manipulation  
 
-Together, these labs built the foundation for **Pandas, SQL, and advanced analytics** in upcoming modules.
+Together, these labs built the foundation for **Pandas, SQL, and advanced analytics** in upcoming modules.  
 
 ---
 
-## 📝 Reflection
+## 📝 Reflection  
 Completing Module 4 gave me confidence in Python’s versatility.  
-I can now:
+I can now:  
 - Choose the right data structure for a problem  
 - Load and clean real datasets  
 - Connect to APIs and web services for live data  
 - Apply NumPy for efficient numerical analysis  
 
-This module marks my transition from **basic programming** into **data science workflows**.
+This module marks my transition from **basic programming** into **data science workflows**.  
