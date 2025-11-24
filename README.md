@@ -46,12 +46,13 @@ Key skills covered:
 
 ---
 
-## ✨ Highlights So Far
+## ✨ Highlights So Far  
 - ✅ Excel dashboards and pivot tables  
 - ✅ Cognos Analytics dashboards (multi-panel, interactive, advanced features)  
-- 🔜 Python notebooks with Pandas & Numpy  
-- 🔜 SQL queries for real-world datasets  
-
+- ✅ Python fundamentals: data structures, APIs, HTTP requests  
+- ✅ NumPy arrays (1D & 2D) for scientific computing  
+- 🔜 Pandas notebooks for data wrangling and analysis  
+- 🔜 SQL queries for real-world datasets 
 ---
 
 ## 📝 Reflections
