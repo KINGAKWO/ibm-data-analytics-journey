@@ -3,46 +3,51 @@
 ## 🏅 Skills Applied
 - 🐍 Python Fundamentals  
 - 📦 Pandas for data wrangling  
-- 🌐 Web scraping with Beautiful Soup  
-- 📊 Data visualization with Matplotlib & Seaborn  
-- 📈 Dashboard creation in Jupyter Notebook  
+- 🌐 yfinance for stock data extraction  
+- 📊 Data visualization with Matplotlib  
+- 📈 Financial analysis using historical price trends  
 
 ---
 
 ## 📖 Overview
-This module is a **capstone-style mini-project** where I applied Python skills to a real-world dataset.  
-The project involves extracting data, cleaning it, analyzing patterns, and presenting insights through visualizations and dashboards.
+In this module, I assumed the role of a **data scientist working for a hedge fund**.  
+My task was to extract and analyze stock data to identify **suspicious activity or unusual trends**.  
+I used the `yfinance` library to pull metadata and historical price data for companies like **Apple (AAPL)** and **AMD (AMD)**.
 
 ---
 
 ## 🗂️ Labs Completed
-1. **Web Scraping Review Lab** – practiced extracting and parsing HTML data with Beautiful Soup.  
-2. *(Upcoming)* Data extraction and cleaning tasks.  
-3. *(Upcoming)* Exploratory analysis with Pandas.  
-4. *(Upcoming)* Visualization and dashboard creation.  
+1. **Extracting Stock Data Using a Python Library**  
+   - Created Ticker objects with `yfinance.Ticker()`  
+   - Loaded company metadata from JSON files  
+   - Extracted historical share prices and dividends  
+   - Visualized stock trends over time  
 
 ---
 
 ## 📊 Summary
-- **Data Acquisition**: Web scraping with Beautiful Soup and `requests`.  
-- **Data Wrangling**: Cleaning and structuring scraped data with Pandas.  
-- **Analysis & Visualization**: Identifying trends and presenting insights with charts.  
-- **Dashboarding**: Creating a notebook dashboard to showcase findings.  
+- **Data Acquisition**: Used `yfinance` to pull stock data into Pandas DataFrames.  
+- **Metadata Extraction**: Parsed JSON files for company info (sector, country, market cap).  
+- **Historical Analysis**: Analyzed price movements and volume trends from 1980 to present.  
+- **Visualization**: Plotted stock price trajectories to detect growth patterns and anomalies.  
 
 ---
 
 ## 📂 Files
-- [Notebook: Web Scraping Review Lab](./WebScraping_Review_Lab.ipynb)  
-- *(Future notebooks will be added here as the project progresses)*  
+- [Notebook: Final Assignment – Stock Data Extraction](./Final_Assignment%20Library.ipynb)  
+- [apple.json](./data/apple.json)  
+- [amd.json](./data/amd.json)  
 
 ---
 
 ## 📝 Reflection
-This project demonstrates my ability to **apply Python in a complete analytics workflow**.  
-The first lab reinforced my web scraping skills, preparing me to integrate external data sources into the project.  
-I look forward to combining these skills with Pandas and visualization libraries to deliver a polished dashboard.
+This lab demonstrated my ability to **extract, analyze, and visualize financial data using Python**.  
+I learned how to:
+- Use `yfinance` to access real-time and historical stock data  
+- Parse JSON metadata for company insights  
+- Visualize long-term stock performance to detect trends and anomalies  
+
+This project is a strong addition to my portfolio, showing that I can apply Python to **real-world financial analysis**.
 
 ---
 
-## 🏆 Badge Earned
-🎖️ IBM Python Project for Data Science Badge *(to be added upon completion)*  
