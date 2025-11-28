@@ -23,6 +23,12 @@ I used the `yfinance` library to pull metadata and historical price data for com
    - Extracted historical share prices and dividends  
    - Visualized stock trends over time  
 
+2. **Final Assignment – Webscraping Lab**  
+   - Downloaded HTML content using `requests`  
+   - Parsed stock data table with `BeautifulSoup`  
+   - Extracted and structured historical Amazon stock prices  
+   - Created a clean DataFrame for analysis  
+   - Answered targeted questions about metadata and stock values
 ---
 
 ## 📊 Summary
@@ -48,6 +54,10 @@ I learned how to:
 - Visualize long-term stock performance to detect trends and anomalies  
 
 This project is a strong addition to my portfolio, showing that I can apply Python to **real-world financial analysis**.
+
+The second lab(Final Assignment_Webscraping) reinforced my ability to **scrape structured data from web pages** and transform it into usable formats.  
+I practiced parsing HTML tables, handling nested tags, and building a clean DataFrame for financial analysis.  
+This skill is essential for analysts who need to work with unstructured or semi-structured data sources.
 
 ---
 
