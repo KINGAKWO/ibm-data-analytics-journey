@@ -47,19 +47,23 @@ Key skills covered:
 ---
 
 
-## ✨ Highlights So Far  
+## ✨ Highlights So Far
 - ✅ Excel dashboards and pivot tables  
 - ✅ Cognos Analytics dashboards (multi-panel, interactive, advanced features)  
 - ✅ Python fundamentals: data structures, APIs, HTTP requests  
 - ✅ NumPy arrays (1D & 2D) for scientific computing  
-- 🔜 Pandas notebooks for data wrangling and analysis  
-- 🔜 SQL queries for real-world datasets 
+- ✅ Pandas for data wrangling and analysis  
+- ✅ SQL fundamentals: SELECT, INSERT, UPDATE, DELETE  
+- ✅ Advanced SQL: joins, sub-queries, grouping, built-in functions  
+- 🔄 Python data analysis labs (EDA, cleaning, transformations)  
+- ⏳ Upcoming: Python visualization with Matplotlib & Seaborn  
+
 ---
+
 
 ## 📝 Reflections
 This repo is not just about code—it’s about **documenting my journey**.  
-- Each module folder contains my **hands-on work** and **personal reflections**.  
-- The `docs/learning-log.md` tracks my growth with **date-based journal entries**.  
+- Each module folder contains my **hands-on work** and **personal reflections**.   
 - My goal is to show both **technical execution** and **critical thinking**.  
 
 ---
