@@ -37,7 +37,7 @@ Key skills covered:
 | 03. Data Visualization (Excel & Cognos) | Dashboards, storytelling | ✅ Completed |
 | 04. Python for Data Science | Python, Pandas, NumPy | ✅ Completed |
 | 05. Python Project for Data Science | Applied project & dashboard | ✅ Completed |
-06. Databases & SQL | SQL queries, joins, filtering | ✅ Completed |
+| 06. Databases & SQL | SQL queries, joins, filtering | ✅ Completed |
 | 07. Data Analysis with Python | Cleaning, wrangling, EDA | 🔄 In Progress |
 | 08. Data Visualization with Python | Matplotlib, Seaborn | ⏳ Upcoming |
 | 09. Capstone Project | End-to-end analysis | ⏳ Upcoming |
