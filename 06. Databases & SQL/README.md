@@ -69,4 +69,4 @@ SQL is now a solid part of my toolkit, enabling me to move seamlessly between **
 
 ## 🏆 Badge Earned
 🎖️ IBM Databases & SQL for Data Science Badge  
-[View Badge on Credly]([https://www.credly.com](https://www.credly.com/badges/c46e1a63-a161-4554-b4b0-93c790d5ec57/public_url))
+[View Badge on Credly]([https://www.credly.com/badges/c46e1a63-a161-4554-b4b0-93c790d5ec57/public_url])
